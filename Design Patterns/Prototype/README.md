@@ -20,7 +20,7 @@ The implementation of the clone method is more or less the same in all classes. 
 
 ### Basic Implementation
 
-![Prototype Basic Implementation]()
+![Prototype Basic Implementation](https://github.com/Kalkwst/Training-Manuals/blob/feature/Prototype/Design%20Patterns/Prototype/img/BasePrototype.png)
 
 1. The **Prototype** interface declares the cloning methods. In most cases, it's a single `Clone` method.
 2. The **Concrete Prototype** class implements the cloning method. In addition to copying the original object's data to the clone, this method may also handle some edge cases of cloning process related to cloning linked objects, untangling recursive dependencies, etc.
@@ -28,7 +28,7 @@ The implementation of the clone method is more or less the same in all classes. 
 
 ### Prototype Registry Implementation
 
-![Prototype Registry Implementation]()
+![Prototype Registry Implementation](https://github.com/Kalkwst/Training-Manuals/blob/feature/Prototype/Design%20Patterns/Prototype/img/PrototypeRegistry.png)
 
 1. The **Prototype Registry** provides an easy way to access frequently-used prototypes. It stores a set of pre-built objects that are ready to be copied. The simplest prototype registry is a `name -> prototype` has map. However, if you need better search criteria than a simple name, you can build a much more robust version of the registry.
 
