@@ -35,7 +35,7 @@ A Decorator is also called a **Wrapper**. This alias clearly expresses the main 
 
 ## Structure
 
-![Decorator Structure]()
+![Decorator Structure](https://github.com/Kalkwst/Training-Manuals/blob/feature/Decorator/Design%20Patterns/Decorator/img/Decorator_Structure.png)
 
 1. The **Component** declares the common interface for both wrappers and wrapped objects.
 2. **Concrete Component** is a class of objects being wrapped. It defines the basic behaviour, which can be altered by decorators
