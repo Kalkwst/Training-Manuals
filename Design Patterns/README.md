@@ -4,11 +4,11 @@
 
 These patterns provide various object creation mechanisms, which increase flexibility and reuse of existing code.
 
-### [Abstract Factory]()
+### [Abstract Factory](https://github.com/Kalkwst/Training-Manuals/tree/feature/Design_Patterns/Design%20Patterns/Abstract%20Factory)
 
 Lets you produce families of related objects without specifying their concrete classes.
 
-### [Builder]()
+### [Builder](https://github.com/Kalkwst/Training-Manuals/tree/feature/Design_Patterns/Design%20Patterns/Builder)
 
 Lets you construct complex objects step by step. The pattern allows you to produce different types and representations of an object using the same construction code.
 
@@ -16,7 +16,7 @@ Lets you construct complex objects step by step. The pattern allows you to produ
 
 Provides an interface for creating objects in a superclass, but allows subclasses to alter the type of objects that will be created.
 
-### [Prototype]()
+### [Prototype](https://github.com/Kalkwst/Training-Manuals/tree/feature/Design_Patterns/Design%20Patterns/Prototype)
 
 Lets you copy existing objects without making your code dependent on their classes.
 
@@ -40,7 +40,7 @@ Lets you split a large class or a set of closely related classes into two separa
 
 Lets you compose objects into tree structures and then work with these structures as if they were individual objects.
 
-### [Decorator]()
+### [Decorator](https://github.com/Kalkwst/Training-Manuals/tree/feature/Design_Patterns/Design%20Patterns/Decorator)
 
 Lets you attach new behaviors to objects by placing these objects inside special wrapper objects that contain the behaviors.
 
