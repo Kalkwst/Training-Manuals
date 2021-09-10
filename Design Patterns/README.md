@@ -28,7 +28,7 @@ Lets you ensure that a class has only one instance, while providin ga global acc
 
 Structural patterns explain how to assemble objects and classes into larger structures while keeping these structures flexible and efficient.
 
-### [Adapter]()
+### [Adapter](https://github.com/Kalkwst/Training-Manuals/tree/feature/Design_Patterns/Design%20Patterns/Adapter)
 
 Allows objects with incompatible interfaces to collaborate.
 
