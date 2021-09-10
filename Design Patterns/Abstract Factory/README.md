@@ -26,7 +26,7 @@ Say the client wants a factory to produce a dessert. The client doesn't have to 
 
 ## Structure
 
-![Abstract Factory Structure](https://github.com/Kalkwst/Training-Manuals/blob/feature/AbstractFactory/Design%20Patterns/Abstract%20Factory/img/AbstractFactoryStructure.png)
+![Abstract Factory Structure](https://github.com/Kalkwst/Training-Manuals/blob/feature/Design_Patterns/Design%20Patterns/Abstract%20Factory/img/AbstractFactoryStructure.png)
 
 1. **Abstract Products** declare interfaces for a set of distinct but related products which make up a product family.
 2. **Concrete Products** are various implementations of abstract products, grouped by variants. Each abstract product (appetizer, main dish) must be implemented in all given variants (Vegetarian, Surf and Turf).
