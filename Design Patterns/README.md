@@ -58,7 +58,7 @@ Lets you provide a substitute or placeholder for another object. A proxy control
 
 ## Behavioral Patterns
 
-### [Chain of Responsibility]()
+### [Chain of Responsibility](/Design%20Patterns/ChainOfResponsibility/README.md)
 
 Lets you pass requests along a chain of handlers. Upon receiving a request, each handler decides either to process the request or to pass it to the next handler in the chain.
 
